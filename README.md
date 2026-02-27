@@ -49,10 +49,15 @@ API Gateway
 Notification Processing Service
 ↓
 ┌─────────────────────────────────────┐
+
 │ 1. Deduplication Engine │
+
 │ 2. Rule Engine (Configurable) │
+
 │ 3. AI Priority Scorer │
+
 │ 4. Fatigue Controller │
+
 └─────────────────────────────────────┘
 ↓
 Decision Engine (NOW / LATER / NEVER)

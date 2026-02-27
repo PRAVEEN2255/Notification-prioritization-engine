@@ -43,10 +43,15 @@ The system must be:
 
 # 2️⃣ High-Level Architecture
 Incoming Event
+
 ↓
+
 API Gateway
+
 ↓
+
 Notification Processing Service
+
 ↓
 
 ┌─────────────────────────────────────┐

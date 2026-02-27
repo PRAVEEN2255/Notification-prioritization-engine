@@ -48,6 +48,7 @@ API Gateway
 ↓
 Notification Processing Service
 ↓
+
 ┌─────────────────────────────────────┐
 
 │ 1. Deduplication Engine │
@@ -59,6 +60,7 @@ Notification Processing Service
 │ 4. Fatigue Controller │
 
 └─────────────────────────────────────┘
+
 ↓
 Decision Engine (NOW / LATER / NEVER)
 ↓
